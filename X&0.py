@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# 08/10/2023 ver 0.0.8
 
 import random
 from colorama import init
